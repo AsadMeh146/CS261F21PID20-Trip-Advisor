@@ -11,8 +11,8 @@ Searching algorithms: Implement different searching algorithms to find specific 
 
 Prerequisites:
 
-Python 3.9 or later.
-PyQt5 5.15.4 or later.
+Python 3.9 or later
+PyQt5 5.15.4 or later
 Add Latest web driver according to your brower version.
 
 Installation: 
