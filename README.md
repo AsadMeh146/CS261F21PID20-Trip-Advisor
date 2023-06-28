@@ -11,15 +11,27 @@ Searching algorithms: Implement different searching algorithms to find specific 
 
 Prerequisites:
 
-Python 3.9 or later
-PyQt5 5.15.4 or later
-Latest web driver according to your brower version
+Python 3.9 or later.
+PyQt5 5.15.4 or later.
+Add Latest web driver according to your brower version.
 
-Installation
+Installation: 
+
 Clone the repository:
-git clone https://github.com/AsadMeh146/CS261F21PID20-Trip-Advisor.git
+git clone https://github.com/AsadMeh146/CS261F21PID20-Trip-Advisor.git.
 
 Install the required dependencies:
 
-pip install selenium,pandas
+pip install selenium,pandas.
+
+Usage:
+
+Run the application using command:
+python tripAdvisor_scrapped.py.
+
+The application's GUI will appear, providing options for web scraping, sorting, and searching.
+
+Choose the desired options and follow the on-screen instructions to perform the selected actions.
+
+The scraped data will be stored in a CSV file, and you can view and manipulate it using external tools or import it into other applications.
 
